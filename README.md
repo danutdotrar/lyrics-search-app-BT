@@ -1,8 +1,6 @@
-A lyrics search app.
-
 Find lyrics to specific artists or songs, by searching.
 
-Learned more about:
+I learned more about:
 - HTML, CSS
 - JavaScript
 - Fetch APIs
